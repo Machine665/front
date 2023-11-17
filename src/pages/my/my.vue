@@ -22,3 +22,4 @@ const memberStore = useMemberStore()
 <style lang="scss">
 //
 </style>
+@/stores/modules @/stores/modules
