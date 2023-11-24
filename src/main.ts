@@ -1,5 +1,5 @@
 import { createSSRApp } from 'vue'
-import pinia from './stores/modules'
+import pinia from './stores'
 
 import 'virtual:windi-base.css'
 import 'virtual:windi-components.css'
